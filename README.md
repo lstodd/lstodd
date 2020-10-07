@@ -8,4 +8,4 @@
 |Project | Descrption | Status |
 |--|--|--|
 |**[AirBnB London EDA](https://github.com/lstodd/airbnb-london-eda)**|An exploration and comaparison of Air BnB data from different cities.|Active|
-|**[Disaster Response Pipeline](https://github.com/lstodd/disaster-response-pipeline)**|Target response to disaster messages.|Completed|
+|**[Disaster Response Pipeline](https://github.com/lstodd/disaster-response-pipeline)**|Targeted response to disaster messages.|Completed|
