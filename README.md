@@ -9,4 +9,4 @@
 |--|--|--|
 |**[AirBnB London EDA](https://github.com/lstodd/airbnb-london-eda)**|An exploration and comaparison of Air BnB data from different cities.|Completed|
 |**[Airline Tweet Sentiment](https://github.com/lstodd/airline-tweet-sentiment)**|Predicting sentiment of tweets to airline companies.|Completed|
-|**[Disaster Response Pipeline](https://github.com/lstodd/disaster-response-pipeline)**|Targeted response to disaster messages.|Updating|
+|**[Disaster Response Pipeline](https://github.com/lstodd/disaster-response-pipeline)**|Targeted response to disaster messages.|Completed|
