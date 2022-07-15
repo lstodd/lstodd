@@ -1,6 +1,6 @@
 ### Laura's GitHub 👋
 
-- 🔭 I’m currently working at Experian DataLabs.
-- 🌱 I’m currently learning about deep learning, NLP and Bayesian statistics.
+- 🔭 I’m currently working at Sage AI Labs
+- 🌱 I’m currently learning about NLP
 - 📫 How to reach me: laurastoddart@hotmail.com
 - 😄 Pronouns: She/Her
